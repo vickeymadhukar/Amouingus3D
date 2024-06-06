@@ -365,6 +365,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/camera/mapcamera.cs"
 "Assets/games/togglestate.cs"
 "Assets/headbob.cs"
 "Assets/Joystick Pack/Examples/JoystickPlayerExample.cs"

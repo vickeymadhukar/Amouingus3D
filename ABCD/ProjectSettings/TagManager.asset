@@ -18,8 +18,8 @@ TagManager:
   - map
   - GoalPlayer
   - GoalAI
-  - 
-  - 
+  - minimap
+  - player
   - 
   - 
   - 

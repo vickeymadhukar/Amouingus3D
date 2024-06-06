@@ -10,7 +10,15 @@ public class Minimaps : MonoBehaviour
     public Transform map3dEnd;
 
     private Vector3 normalized, mapped;
+    public GameObject center;
+    public GameObject endofmap;
 
+
+    private void Start()
+    {
+        map3dParent.position= center.transform.position ;
+        map3dEnd.position = endofmap.transform.position;
+    }
     private void Update()
     {
         normalized = Divide(
