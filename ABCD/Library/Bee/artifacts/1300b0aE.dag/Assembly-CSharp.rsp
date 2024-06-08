@@ -398,6 +398,7 @@
 "Assets/scripts/pingponf/Ball.cs"
 "Assets/scripts/pingponf/Playerpaddle.cs"
 "Assets/scripts/pingponf/Scoremanager.cs"
+"Assets/scripts/playersync.cs"
 "Assets/scripts/switchgame/bulbsw.cs"
 "Assets/scripts/switchgame/switchonoff.cs"
 "Assets/soundsc.cs"

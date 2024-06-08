@@ -23,6 +23,6 @@ public class PlayerManger : MonoBehaviour
    void createController()
     {
         Transform spown = SpownManger.Instance.GetSpownpoint();
-        PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "player2"), spown.position, spown.rotation);
+        PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "player1"), spown.position, spown.rotation);
     }
 }

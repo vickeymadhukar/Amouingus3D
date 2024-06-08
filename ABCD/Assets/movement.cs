@@ -43,7 +43,7 @@ public class movement : MonoBehaviour
        
         if (!PV.IsMine)
         {
-          
+            Destroy(GetComponentInChildren<Camera>().gameObject);
             Debug.Log("CANVAS DESTROYED");
         }
         else
